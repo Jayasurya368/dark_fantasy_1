@@ -1,0 +1,52 @@
+.img{
+    border-width: 10px;
+    border:4px solid rgb(255, 0, 64);
+    background-color: black;
+    border-radius: 700px;
+}
+.dress{
+    color:rgb(255, 255, 255);
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 1000;
+    font-size:120px;
+    margin-left: 600px;
+    margin-top: -380px;
+}
+.mark{
+    color: white;
+    font-size: 40px;
+    margin-top: 100px;
+}
+.pro{
+    color: white;
+    font-size:80px;
+}
+.kasooti{
+    border-radius: 20px;
+    margin-left: 70px;
+     border:4px solid rgb(225, 255, 0);
+    background-color: black;
+}
+.kasooti:hover{
+    border:4px solid rgb(255, 0, 162);
+    background-color: black;
+}
+.button{
+    color: black;
+    background-color: rgb(237, 150, 0);
+    padding-top:30px ;
+    padding-bottom:30px ;
+    padding-left:50px ;
+    padding-right:50px ;
+    border-radius: 40px;
+    font-size: 30px;
+    margin-left: 200px;
+    vertical-align:bottom;
+}
+.button:hover{
+    background-color: rgb(255, 183, 58);
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
